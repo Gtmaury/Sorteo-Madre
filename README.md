@@ -65,6 +65,7 @@ Para reiniciar el sorteo desde cero, limpiar el `localStorage` del navegador.
 | 9   | Maria do Amparo Ribeiro da Silva| 00400001819 | Santa Elena de Uairén    | Tablet |
 | 10  | Mariauxi Carolina González      | 00800003807 | Soledad                  | Tablet |
 | 11  | Osyerlin Mogollón               | 01000000031 | Caicara del Orinoco      | Tablet |
+| 12  | Dilmary José Lorant             | 00200031227 | Upata                    | Tablet |
 
 ---
 

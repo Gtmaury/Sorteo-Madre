@@ -15,7 +15,8 @@ const winners = [
   { name: 'Anyelis del Valle Fernández', codigo: '00600023296', city: 'San Félix', prize: 'Tablet' },
   { name: 'Maria do Amparo Ribeiro da Silva', codigo: '00400001819', city: 'Santa Elena de Uairén', prize: 'Tablet' },
   { name: 'Mariauxi Carolina González', codigo: '00800003807', city: 'Soledad', prize: 'Tablet' },
-  { name: 'Osyerlin Mogollón', codigo: '01000000031', city: 'Caicara del Orinoco', prize: 'Tablet' }
+  { name: 'Osyerlin Mogollón', codigo: '01000000031', city: 'Caicara del Orinoco', prize: 'Tablet' },
+  { name: 'Dilmary José Lorant', codigo: '00200031227', city: 'Upata', prize: 'Tablet' }
 ];
 
 let currentIndex = 0;
