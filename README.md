@@ -52,19 +52,19 @@ Para reiniciar el sorteo desde cero, limpiar el `localStorage` del navegador.
 
 ## Ganadores registrados
 
-| #   | Nombre                          | Código      | Ciudad                   | Premio     |
-| --- | ------------------------------- | ----------- | ------------------------ | ---------- |
-| 1   | Neidimar Yerlin Flores Gil      | 00100049217 | Core 8                   | Tablet TCL |
-| 2   | Yusmerilys Carolina Guatarasma  | 01100103752 | Maturín                  | Tablet TCL |
-| 3   | Ana Gloria González Guzmán      | 00100000007 | Puerto Ordaz             | Tablet TCL |
-| 4   | Kiiara Marley Rivas Guerra      | 00500014624 | Santa Bárbara de Barinas | Tablet TCL |
-| 5   | Belkys Ruiz de Acuña            | 00100000037 | Guasipati                | Tablet TCL |
-| 6   | Yarelys Josefina López Álvarez  | 00200029071 | Upata                    | Tablet TCL |
-| 7   | Elizabeth Martínez Díaz         | 00300000996 | Bolívar                  | Tablet TCL |
-| 8   | Anyelis del Valle Fernández     | 00600023296 | San Félix                | Tablet TCL |
-| 9   | Maria do Amparo Ribeiro da Silva| 00400001819 | Santa Elena de Uairén    | Tablet TCL |
-| 10  | Mariauxi Carolina González      | 00800003807 | Soledad                  | Tablet TCL |
-| 11  | Osyerlin Mogollón               | 01000000031 | Caicara del Orinoco      | Tablet TCL |
+| #   | Nombre                          | Código      | Ciudad                   | Premio |
+| --- | ------------------------------- | ----------- | ------------------------ | ------ |
+| 1   | Neidimar Yerlin Flores Gil      | 00100049217 | Core 8                   | Tablet |
+| 2   | Yusmerilys Carolina Guatarasma  | 01100103752 | Maturín                  | Tablet |
+| 3   | Ana Gloria González Guzmán      | 00100000007 | Puerto Ordaz             | Tablet |
+| 4   | Kiiara Marley Rivas Guerra      | 00500014624 | Santa Bárbara de Barinas | Tablet |
+| 5   | Belkys Ruiz de Acuña            | 00100000037 | Guasipati                | Tablet |
+| 6   | Yarelys Josefina López Álvarez  | 00200029071 | Upata                    | Tablet |
+| 7   | Elizabeth Martínez Díaz         | 00300000996 | Bolívar                  | Tablet |
+| 8   | Anyelis del Valle Fernández     | 00600023296 | San Félix                | Tablet |
+| 9   | Maria do Amparo Ribeiro da Silva| 00400001819 | Santa Elena de Uairén    | Tablet |
+| 10  | Mariauxi Carolina González      | 00800003807 | Soledad                  | Tablet |
+| 11  | Osyerlin Mogollón               | 01000000031 | Caicara del Orinoco      | Tablet |
 
 ---
 

@@ -5,17 +5,17 @@
 
 // Winners data
 const winners = [
-  { name: 'Neidimar Yerlin Flores Gil', codigo: '00100049217', city: 'Core 8', prize: 'Tablet TCL' },
-  { name: 'Yusmerilys Carolina Guatarasma', codigo: '01100103752', city: 'Maturín', prize: 'Tablet TCL' },
-  { name: 'Ana Gloria González Guzmán', codigo: '00100000007', city: 'Puerto Ordaz', prize: 'Tablet TCL' },
-  { name: 'Kiiara Marley Rivas Guerra', codigo: '00500014624', city: 'Santa Bárbara de Barinas', prize: 'Tablet TCL' },
-  { name: 'Belkys Ruiz de Acuña', codigo: '00100000037', city: 'Guasipati', prize: 'Tablet TCL' },
-  { name: 'Yarelys Josefina López Álvarez', codigo: '00200029071', city: 'Upata', prize: 'Tablet TCL' },
-  { name: 'Elizabeth Martínez Díaz', codigo: '00300000996', city: 'Bolívar', prize: 'Tablet TCL' },
-  { name: 'Anyelis del Valle Fernández', codigo: '00600023296', city: 'San Félix', prize: 'Tablet TCL' },
-  { name: 'Maria do Amparo Ribeiro da Silva', codigo: '00400001819', city: 'Santa Elena de Uairén', prize: 'Tablet TCL' },
-  { name: 'Mariauxi Carolina González', codigo: '00800003807', city: 'Soledad', prize: 'Tablet TCL' },
-  { name: 'Osyerlin Mogollón', codigo: '01000000031', city: 'Caicara del Orinoco', prize: 'Tablet TCL' }
+  { name: 'Neidimar Yerlin Flores Gil', codigo: '00100049217', city: 'Core 8', prize: 'Tablet' },
+  { name: 'Yusmerilys Carolina Guatarasma', codigo: '01100103752', city: 'Maturín', prize: 'Tablet' },
+  { name: 'Ana Gloria González Guzmán', codigo: '00100000007', city: 'Puerto Ordaz', prize: 'Tablet' },
+  { name: 'Kiiara Marley Rivas Guerra', codigo: '00500014624', city: 'Santa Bárbara de Barinas', prize: 'Tablet' },
+  { name: 'Belkys Ruiz de Acuña', codigo: '00100000037', city: 'Guasipati', prize: 'Tablet' },
+  { name: 'Yarelys Josefina López Álvarez', codigo: '00200029071', city: 'Upata', prize: 'Tablet' },
+  { name: 'Elizabeth Martínez Díaz', codigo: '00300000996', city: 'Bolívar', prize: 'Tablet' },
+  { name: 'Anyelis del Valle Fernández', codigo: '00600023296', city: 'San Félix', prize: 'Tablet' },
+  { name: 'Maria do Amparo Ribeiro da Silva', codigo: '00400001819', city: 'Santa Elena de Uairén', prize: 'Tablet' },
+  { name: 'Mariauxi Carolina González', codigo: '00800003807', city: 'Soledad', prize: 'Tablet' },
+  { name: 'Osyerlin Mogollón', codigo: '01000000031', city: 'Caicara del Orinoco', prize: 'Tablet' }
 ];
 
 let currentIndex = 0;
